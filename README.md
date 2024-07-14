@@ -1,8 +1,8 @@
 <div align="center">
 
-# Simple Java Calculator
+# AdvanceJava Calculator
 
-![Logo Simple Java Calculator](logo.png)
+![Logo Advance Java Calculator](logo.png)
 
 ---
 
@@ -14,10 +14,10 @@ This calculator is **simple** with an **easy to use code** to help novices **lea
 
 This project was **originally written using `Eclipse`**, but I have **migrated it to NetBeans**.
 
-If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work, you can type this in your terminal:
+If you use the executable "AdvanceJavaCalculator.jar" file and that doesn't work, you can type this in your terminal:
 
 ```shell
-java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
+java -jar /your_calculator_directory/AdvanceJavaCalculator.jar`
 ```
 
 ## :sparkles: Example
@@ -26,9 +26,9 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 ## You might also like :monocle_face:
 
-**[My Simple Java Text Editor](https://github.com/pH-7/Simple-Java-Text-Editor).**
+**[My Advance Java Text Editor](https://github.com/pH-7/Advance-Java-Text-Editor).**
 
-[![Open-Source Simple Java Text Editor](https://github.com/pH-7/Simple-Java-Text-Editor/blob/master/Screenshots/find-replace-word-in-java-text-editor.png)](https://github.com/pH-7/Simple-Java-Text-Editor "Open-Source Simple Java Text Editor")
+[![Open-Source Simple Java Text Editor](https://github.com/pH-7/Advance-Java-Text-Editor/blob/master/Screenshots/find-replace-word-in-java-text-editor.png)](https://github.com/pH-7/Simple-Java-Text-Editor "Open-Source Advance Java Text Editor")
 
 
 ## 💡 Authors
